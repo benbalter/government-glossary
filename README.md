@@ -29,3 +29,9 @@ GovSpeak: A language of acronyms spoken primarily in the Washington DC province 
 ```
 
 Beyond that, the terms are rendered human readable via `index.html` and machine readable via `terms.json`.
+
+## Running locally
+
+1. `script/bootstrap`
+2. `script/server`
+3. Open [localhost:4000](http://localhost:4000) in your browser
