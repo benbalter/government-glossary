@@ -1,0 +1,11 @@
+{
+  "name": "government-glossary",
+  "version": "0.0.1",
+  "homepage": "https://github.com/benbalter/government-glossary",
+  "authors": [
+    "Ben Balter <ben.balter@github.com>"
+  ],
+  "description": "A GovSpeak to English translator a.k.a. glossary of common government IT and procurement terms, abbreviations and acronyms",
+  "main": "index.html",
+  "license": "CC0"
+}
