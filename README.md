@@ -4,7 +4,7 @@
 
 ## Viewing the glossary
 
-LINK
+[Do it live!](http://ben.balter.com/government-glossary/)
 
 You can also get programatic access to the terms via `terms.json`.
 
