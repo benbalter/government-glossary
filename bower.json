@@ -7,5 +7,9 @@
   ],
   "description": "A GovSpeak to English translator a.k.a. glossary of common government IT and procurement terms, abbreviations and acronyms",
   "main": "index.html",
-  "license": "CC0"
+  "license": "CC0",
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "fontawesome": "~4.1.0"
+  }
 }
