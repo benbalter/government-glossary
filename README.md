@@ -1,6 +1,6 @@
 # Government Glossary
 
-*A GovSpeak to English translator a.k.a. glossary of common government IT and procurement terms*
+*A GovSpeak to English translator a.k.a. glossary of common government IT and procurement terms, abbreviations and acronyms (CGITPTAA)*.
 
 ## Viewing the glossary
 
@@ -18,7 +18,7 @@ The Government Glossary is licensed under [CC0](LICENSE.md).
 
 ## Basic structure
 
-Terms are stored in the [_data/terms.yaml](_data/terms.yaml) as [YAML](http://en.wikipedia.org/wiki/YAML), which is essentially each line containing a term and it's definition, with a single colon separating the two. A term might look like this:
+Terms are stored in the [_data/terms.yml](_data/terms.yml) as [YAML](http://en.wikipedia.org/wiki/YAML), which is essentially each line containing a term and it's definition, with a single colon separating the two. A term might look like this:
 
 ```yml
 GovSpeak: A language of acronyms spoken primarily in the Washington DC province of the United States
