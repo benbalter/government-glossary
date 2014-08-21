@@ -12,15 +12,9 @@ You can also get programatic access to the terms via `terms.json`.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
-## Goals and purpose
+## Goals
 
 The goal of the government glossary is to curate an open source list of common government IT (and also to an extent procurment) terms, abbreviations, and acronyms to demystify govspeak jargon.
-
-Terms need not be governemnt-specific (e.g., CISO), but should be terms largely used within the government IT community. Terms need not be US-specific, although due to the complex nature of US regulation, many may be.
-
-Definitions should be written from a neutral, non-partisan point of view, and should, where possible, avoid using jargon themselves. Bonus points if you can include a link to additional resources.
-
-When in doubt, [ask](https://github.com/benbalter/government-glossary/issues/new).
 
 ## License
 

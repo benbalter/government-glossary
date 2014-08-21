@@ -1,3 +1,11 @@
+## Scope
+
+Common government IT terms, jargon, acronyms and abbreviations. Terms need not be governemnt-specific (e.g., "CISO"), but should be terms largely used within the government IT community. Terms need not be US-specific, although due to the complex nature of US regulation, many may be. Generic IT terms (e.g., "router") are probably best left defined elsewhere.
+
+## Style
+
+Definitions should be written from a neutral, non-partisan point of view, and should, where possible, avoid using jargon themselves. Bonus points if you can include a link to additional resources.
+
 ## Adding a term
 
 To add a term:
@@ -27,3 +35,7 @@ This will create a pull request, to which you will be automatically subscribed, 
 ## One gotcha
 
 Because the `terms.yml` file is YML, and thus must be machine readable, there are a few occasional gotchas around using certain characters. If your definition contains a colon or other special character, wrapping the definition in double quotes (`"`) may help. You can also see [the YAML spec](http://www.yaml.org/) for more information, or simply ask for help on your  pull request.
+
+## Catchall
+
+When in doubt, [ask](https://github.com/benbalter/government-glossary/issues/new).
