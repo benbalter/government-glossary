@@ -1,1 +1,8 @@
 _site
+.bundle
+
+#bower bloat
+assets/vendor/bootstrap/grunt
+assets/vendor/bootstrap/less
+assets/vendor/bootstrap/test-infra
+assets/vendor/jquery/src
