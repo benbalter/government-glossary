@@ -7,7 +7,9 @@
     <title>{{ site.title }}</title>
 
     <!-- Bootstrap -->
+    <link href="assets/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/vendor/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/style.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -17,6 +19,17 @@
     <![endif]-->
   </head>
   <body>
-    {{ content }}
+    <div class="header">
+      <h1 class="title">{{ site.title }}</h1>
+      <p class="improve"><a href="https://github.com/benbalter/government-glossary/blob/master/CONTRIBUTING.md">Help improve this content</a></p>
+      <p class="description">{{ site.description }}</p>
+    </div>
+    <div class="container">
+      <div class="content">
+        {{ content }}
+      </div>
+    </div>
+    <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+    <script src="assets/glossary.js"></script>
   </body>
 </html>

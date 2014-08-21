@@ -1,0 +1,49 @@
+---
+---
+h1 {
+  margin-bottom: 0;
+}
+
+.description {
+  margin-top: 0;
+  font-style: italic;
+  font-size: 1.1em;
+  font-weight: 200;
+}
+
+.header {
+  margin-bottom: 25px;
+  border-bottom: 1px solid #ccc;
+  position: fixed;
+  background: #fff;
+  width: 90%;
+  margin-left: 5%;
+  height: 100px;
+}
+
+.improve {
+  float: right;
+  font-weight: bold;
+}
+
+.content {
+  margin-top: 125px;
+}
+
+.header-link {
+  position: absolute;
+  left: .5em;
+  opacity: 0;
+
+  -webkit-transition: opacity 0.2s ease-in-out 0.1s;
+  -moz-transition: opacity 0.2s ease-in-out 0.1s;
+  -ms-transition: opacity 0.2s ease-in-out 0.1s;
+}
+
+h2:hover .header-link,
+h3:hover .header-link,
+h4:hover .header-link,
+h5:hover .header-link,
+h6:hover .header-link {
+  opacity: 1;
+}

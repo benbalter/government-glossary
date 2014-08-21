@@ -3,5 +3,7 @@ layout: default
 ---
 
 {% for term in site.data.terms %}
-<p>{{ term[0] }}: {{ term[1] }}</p>
+### {{ term[0] }}
+
+{{ term[1] }}
 {% endfor %}

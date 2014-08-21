@@ -1,1 +1,4 @@
-title: Governemnt Glossary
+title: Government Glossary
+description: "A glossary of common government IT and procurement terms, abbreviations and acronyms"
+sass:
+    style: :compressed
