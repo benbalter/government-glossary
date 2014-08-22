@@ -36,6 +36,10 @@ This will create a pull request, to which you will be automatically subscribed, 
 
 Because the `terms.yml` file is YML, and thus must be machine readable, there are a few occasional gotchas around using certain characters. If your definition contains a colon or other special character, wrapping the definition in double quotes (`"`) may help. You can also see [the YAML spec](http://www.yaml.org/) for more information, or simply ask for help on your  pull request.
 
+## License
+
+By contributing to the Government Glossary, you license you license your contribution under the same [terms with which the project is distributed](https://github.com/benbalter/government-glossary#license).
+
 ## Catchall
 
 When in doubt, [ask](https://github.com/benbalter/government-glossary/issues/new).
