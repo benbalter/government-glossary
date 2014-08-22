@@ -12,7 +12,7 @@ COTR: Contacting officer's technical representative, the technical government re
 
 DAA: The Designated Approving Authority/Designated Accrediting Authority/Delegated Accrediting Authority has ultimate responsiblity for running a system at a particular level of risk.
 
-DIACAP: (Department of) Defense Information Assurance Certification and Accreditation Process for risk management of information systems. The process by which an ATO is achieved in DoD.
+DIACAP: "(Department of) Defense Information Assurance Certification and Accreditation Process for risk management of information systems. The process by which an ATO is achieved in DoD."
 
 FAR: The [Federal Acquisition Regulation](http://www.acquisition.gov/far/) or FAR is the primary law government federal procurement in the United States
 
@@ -24,12 +24,12 @@ GSA Schedule: See Schedule 70.
 
 IATO: Interim Authority/Authorization to Operate, is a provisional approval for a system whose deficiencies prevent a formal ATO from being issued.
 
+SAM.gov: "[SAM.gov](https://sam.gov) is a centralized registry for vendor information including certification and accreditations"
+
 SP 800-53: A catalog of security controls published by NIST. Used to describe a system's security measures in FISMA and FedRAMP approvals.
 
-SAM.gov: "[SAM.gov](https://sam.gov) is a centralized registry for vendor information including certification and accreditations"
+STIG: "[Secure Technical Implementation Guidelines](http://iase.disa.mil/stigs/Pages/index.aspx). These are DISA's security requirements for running certain kinds of software in the DOD."
 
 Schedule 70: Schedule 70 of the GSA Schedule is where the General Services Administration lists government-wide contracts it has negotiated with common vendors. Listed offerings can be purchased through a simplified acquisition process.
 
 Section 508: "[Section 508](http://www.section508.gov/) of the US Rehabilitation Act lays out accessibility requirements all US Government Websites must meet"
-
-STIG: "[Secure Technical Implementation Guidelines](http://iase.disa.mil/stigs/Pages/index.aspx). These are DISA's security requirements for running certain kinds of software in the DOD."
