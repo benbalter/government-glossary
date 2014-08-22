@@ -2,6 +2,8 @@
 
 *A GovSpeak to English translator a.k.a. glossary of common government IT and procurement terms, abbreviations and acronyms (CGITPTAA)*.
 
+[![Build Status](https://travis-ci.org/benbalter/government-glossary.svg)](https://travis-ci.org/benbalter/government-glossary)
+
 ## Viewing the glossary
 
 [Do it live!](http://ben.balter.com/government-glossary/)
