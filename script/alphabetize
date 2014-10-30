@@ -7,7 +7,7 @@ data_dir = File.expand_path( "../_data", File.dirname(__FILE__))
 data_file = File.expand_path "terms.yml", data_dir
 
 terms = Psych.load_file data_file
-terms = terms.sort_by { |k,v| k }.to_h
+terms = terms.sort_by { |k,v| k.downcase }.to_h
 
 output = Psych.dump(terms, :line_width => -1)
 output.gsub! /\n/, "\n\n"
