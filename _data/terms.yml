@@ -16,9 +16,9 @@ DIACAP: "(Department of) Defense Information Assurance Certification and Accredi
 
 FAR: The [Federal Acquisition Regulation](http://www.acquisition.gov/far/) or FAR is the primary law government federal procurement in the United States
 
-FISMA: The Federal Information Security Management act lays out a common framework for an agency to evaluate the risk associated with a government IT system
-
 FedRAMP: The [Federal Risk and Authorization Management Program](http://cloud.cio.gov/fedramp) is a framework for certifying the security of cloud service providers for government-wide use
+
+FISMA: The Federal Information Security Management act lays out a common framework for an agency to evaluate the risk associated with a government IT system
 
 GSA Schedules: See Schedule 70.
 
@@ -26,10 +26,12 @@ IATO: Interim Authority/Authorization to Operate, is a provisional approval for 
 
 SAM.gov: "[SAM.gov](https://sam.gov) is a centralized registry for vendor information including certification and accreditations"
 
+Schedule 70: Schedule 70 of the GSA Schedules is where the General Services Administration lists government-wide information technology contracts it has negotiated with common vendors. Listed offerings can be purchased through a simplified acquisition process.
+
+Section 508: "[Section 508](http://www.section508.gov/) of the US Rehabilitation Act lays out accessibility requirements all US Government Websites must meet"
+
 SP 800-53: A catalog of security controls published by NIST. Used to describe a system's security measures in FISMA and FedRAMP approvals.
 
 STIG: "[Secure Technical Implementation Guidelines](http://iase.disa.mil/stigs/Pages/index.aspx). These are DISA's security requirements for running certain kinds of software in the DOD."
 
-Schedule 70: Schedule 70 of the GSA Schedules is where the General Services Administration lists government-wide information technology contracts it has negotiated with common vendors. Listed offerings can be purchased through a simplified acquisition process.
 
-Section 508: "[Section 508](http://www.section508.gov/) of the US Rehabilitation Act lays out accessibility requirements all US Government Websites must meet"
