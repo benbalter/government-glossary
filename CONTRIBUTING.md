@@ -1,6 +1,6 @@
 ## Scope
 
-Common government IT terms, jargon, acronyms and abbreviations. Terms need not be governemnt-specific (e.g., "CISO"), but should be terms largely used within the government IT community. Terms need not be US-specific, although due to the complex nature of US regulation, many may be. Generic IT terms (e.g., "router") are probably best left defined elsewhere.
+Common government IT terms, jargon, acronyms and abbreviations. Terms need not be government-specific (e.g., "CISO"), but should be terms largely used within the government IT community. Terms need not be US-specific, although due to the complex nature of US regulation, many may be. Generic IT terms (e.g., "router") are probably best left defined elsewhere.
 
 ## Style
 
